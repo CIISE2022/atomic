@@ -16,7 +16,3 @@ payloads/*
 
 ExternalPayloads/ChromeStandaloneSetup64.exe
 ExternalPayloads/VirtualBox-6.1.32-149290-Win.exe
-data/*
-!data/.gitkeep
-payloads/*
-!payloads/.gitkeep
